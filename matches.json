@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local":{
       "nome": "Maracanã",
-      "imagem":"TODO"
+      "imagem":"https://maracana-web-prod-bkt.s3.amazonaws.com/images/posts/9-nota-oficial-complexo-maracana.png"
   },
     "mandante":{
       "nome": "Brasil",
@@ -19,8 +19,8 @@
     {
     "descricao": "Eliminatórias Copa 2022",
     "local":{
-      "nome": "Estádio Centenário",
-      "imagem":"TODO"
+      "nome": "Arena Fonte Nova",
+      "imagem":"https://s2.glbimg.com/DvHE6toKWDDJWv-fjo-z20kP3PI=/0x0:1700x1065/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/c/s/yDlgtYQmu9eywIRBQjpA/arenafontenova1.jpg"
   },
     "mandante":{
       "nome": "Colombia",
@@ -37,7 +37,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local":{
       "nome": "Maracanã",
-      "imagem":"TODO"
+      "imagem":"https://maracana-web-prod-bkt.s3.amazonaws.com/images/posts/9-nota-oficial-complexo-maracana.png"
   },
     "mandante":{
       "nome": "Argentina",
