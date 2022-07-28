@@ -6,9 +6,9 @@
       "imagem":"https://maracana-web-prod-bkt.s3.amazonaws.com/images/posts/9-nota-oficial-complexo-maracana.png"
   },
     "mandante":{
-      "nome": "Brasil",
-      "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "nome": "Portugal",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pt.png"
     },
       "visitante":{
       "nome": "Uruguay",
